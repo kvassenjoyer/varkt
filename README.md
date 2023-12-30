@@ -32,7 +32,7 @@ $\newline$
 
 $\newline$
 
-## Сопоставление графиков скорости космического корабля в первые 180 секунд полета по данным из  Kerbal Space Program и из математической модели:
+## Сопоставление графиков скорости космического корабля в первые секунды полета по данным из  Kerbal Space Program и из математической модели:
 
 <p align="center">
   <img src="https://github.com/kvassenjoyer/varkt/blob/master/images/start_speed_comparsion.png" alt="start_speed_comparsion.png"/>
